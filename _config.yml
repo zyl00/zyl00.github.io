@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yulong Zhang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Dalian University of Technology"
+  avatar           : "images/my_fig.jpg"
+  bio              : "PhD student"
   location         : "Dalian, China"
-  employer         :
+  employer         : "Dalian University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zhangyul@mail.dlut.edu.cn"
