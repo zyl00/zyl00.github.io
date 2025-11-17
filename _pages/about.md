@@ -56,8 +56,4 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 ---
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-
----
-
-< img src="https://visitor-badge.laobi.icu/badge?page_id=zyl00.zyl00.github.io&left_text=访问量"/>
+<span id="busuanzi_container_site_pv" style="display: block; text-align: center;">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
