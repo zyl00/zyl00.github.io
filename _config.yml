@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yulong Zhang(玉龙)"
   avatar           : "images/my_fig.jpg"
-  bio              : "Dalian University of Technology"
+  bio              : 
   location         : "Dalian, China"
-  employer         : 
+  employer         : "Dalian University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wPD-57wAAAAJ&hl=zh-CN"
   email            : "zhangyul@mail.dlut.edu.cn"
