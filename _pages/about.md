@@ -21,30 +21,14 @@ I am a third-year Ph.D. student from the School of Information and Communication
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  [[Poster]](../docs/INFOCOM25_Poster.pdf)
+- *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM2025</div><img src='images/INFOCOM25.jpg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar](https://ieeexplore.ieee.org/document/11044442) 
-**Y. Zhang**, X. Li*, Y. Sun. 
-
+- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar[C]. IEEE International Conference on Computer Communications (INFOCOM), 2025. (CCF-A, 18.6%) [[PDF]](https://ieeexplore.ieee.org/document/11044442) [[Poster]](../docs/INFOCOM25_Poster.pdf)
+- C. Jin, **Y. Zhang**, X. Li, Y. Sun, J. Wang, Y. Fang. SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar[C]. IEEE Wireless Communications and Networking Conference (WCNC), 2025.
+- X. Li*, **Y. Zhang**, H. Ding, Y. Fang. Intelligent Spectrum Sensing and Access with Partial Observation Based on Hierarchical Multi-Agent Deep Reinforcement Learning[J]. IEEE Transactions on Wireless Communications, 2024, 23(4): 3131-3145. (Top, JCR Q1)
+- X. Li*, **Y. Zhang**, H. Ding, Y. Fang. A joint scheme on spectrum sensing and access with partial observation: A multi-agent deep reinforcement learning approach[C]. IEEE/CIC International Conference on Communications in China (ICCC), 2023.
 # 🎖 Honors and Awards
 - 2025, 第二十届中国研究生电子设计竞赛 小米企业专项全国三等奖
 - 2024, 第十九届中国研究生电子设计竞赛 TI 企业专项全国三等奖
