@@ -50,6 +50,7 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 - *2023.09 - Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China. (Direct Ph.D. program after Master’s transfer). Supervisor: Prof. Yi Sun & Xuanheng Li.
 - *2021.09 - 2023.06*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisor: Prof. Xuanheng Li.
 - *2017.09 - 2021.06*, B.S. Degree, School of Information and Communication Engineering, Dalian University of Technology, China.
+
 # 💻 Services
 - Reviewer of IEEE WCL, IEEE IOTJ, IEEE TCCN, ACM CSUR.
 
