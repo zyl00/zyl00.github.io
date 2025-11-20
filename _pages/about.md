@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). Total <a href='https://scholar.google.com/citations?user=wPD-57wAAAAJ'>google scholar citations  <a href='https://scholar.google.com/citations?user=wPD-57wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a third-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
 
 My research interest includes reinforcement learning in wireless networks, mmWave radar based wireless sensing, signal processing and deep learning. 
 
