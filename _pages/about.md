@@ -36,7 +36,6 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 </div>
-</div>
 
 ---
 
