@@ -30,7 +30,6 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 
 - **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Submitted to IEEE Transactions on Mobile Computing. (Under Review, **Major Revision**)
 
-{%- X. Li, J. Wang, **Y. Zhang**, H. Ding, J. Wang, X. Chen. m-Tacho: Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar[J]. Submitted to IEEE Transactions on Instrumentation and Measurement. (Major Revision)%}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
