@@ -78,6 +78,8 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 ---
 # 🌍 Visitor Map
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VycwuNNIhXFtVtRnr1dYBH2FqQPxIfrtlzSCwaI0D5I&co=4da0db&ct=ffffff'></script>
+
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MGL_012s5xtcDCmOkbpUnzdpv8_9No63pKxcG89dsWQ&cl=ffffff&w=a"></script> 
 
 <!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=g51h6C7qex6BgeBjcBdP7kfV-4NTCya2q2avTv2WfYI"></script> -->
