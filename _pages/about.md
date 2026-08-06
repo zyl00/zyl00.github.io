@@ -23,12 +23,15 @@ My research interest includes reinforcement learning in wireless networks, mmWav
 
 # 🔥 News
 
+- *2026.08*: &nbsp;🎉🎉 Our work "RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM" has been accepted by IEEE GLOBECOM 2026.
 - *2026.03*: &nbsp;🎉🎉 Our work "3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement" has been accepted by IEEE Transactions on Mobile Computing (CCF-A).
 - *2025.12*: &nbsp;🎉🎉 Our work "Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar" has been accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2024.12*: &nbsp;🎉🎉 Our work "3DVidar: A Contact-free 3D Vibration Sensing System Based on a Single mmWave Radar" has been accepted by IEEE INFOCOM 2025 (CCF-A, 18.6%). [[Wechat Link]](https://mp.weixin.qq.com/s/qHGa29piFxBQlZDO8lkoWw)  
 - *2024.12*: &nbsp;🎉🎉 Our work "SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar" has been accepted by IEEE WCNC 2025.
 
 # 📝 Publications 
+
+- **Y. Zhang**, J. Wang, Z. Lv, X. Li*, Y. Sun. RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM[C]. Accepted by IEEE Global Communications Conference (GLOBECOM)}, 2026.
 
 - **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Accepted by IEEE Transactions on Mobile Computing, Early Access. [[PDF]](https://ieeexplore.ieee.org/document/11458861) [[Poster]](pdf/3DVidar_TMC_poster.pdf)
 
