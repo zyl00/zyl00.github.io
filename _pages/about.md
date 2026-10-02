@@ -79,23 +79,17 @@ Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-ye
 
 - Reviewer for IEEE Transactions on Mobile Computing, IEEE Wireless Communications Letters, IEEE Internet of Things Journal, IEEE Transactions on Cognitive Communications and Networking, and ACM Computing Surveys.
 
-<span class='anchor' id='visitor-map'></span>
+---
 
-# 🌍 Visitor Map
+<div align="center">
 
-<div style="text-align:center; margin: 20px 0;">
-  <script
-    type="text/javascript"
-    id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?d=MGL_012s5xtcDCmOkbpUnzdpv8_9No63pKxcG89dsWQ&cl=ffffff&w=a">
-  </script>
-</div>
+📚 Publications &nbsp;&nbsp; | &nbsp;&nbsp;
+🎓 Google Scholar &nbsp;&nbsp; | &nbsp;&nbsp;
+💻 GitHub &nbsp;&nbsp; | &nbsp;&nbsp;
+✉️ Email
 
-<script async
-src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+<br>
 
-<div style="text-align:center; margin-top:10px;">
-  Visit count:
-  <span id="busuanzi_value_site_pv"></span>
+<sub>Last updated: October 2026</sub>
+
 </div>
