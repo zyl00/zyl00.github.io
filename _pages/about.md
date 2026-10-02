@@ -82,14 +82,5 @@ Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-ye
 ---
 
 <div align="center">
-
-📚 Publications &nbsp;&nbsp; | &nbsp;&nbsp;
-🎓 Google Scholar &nbsp;&nbsp; | &nbsp;&nbsp;
-💻 GitHub &nbsp;&nbsp; | &nbsp;&nbsp;
-✉️ Email
-
-<br>
-
 <sub>Last updated: October 2026</sub>
-
 </div>
