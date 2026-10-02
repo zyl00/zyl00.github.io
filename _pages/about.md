@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a Fourth-year Ph.D. student from the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
+Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-year Ph.D. student at the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
 
-My research interest includes:
-- mmWave radar based **wireless sensing**
-- reinforcement learning in wireless networks
-- large langurage model
+### Research Interests
+
+- mmWave radar-based **wireless sensing**
+- **Wireless AI**, including reinforcement learning for wireless networks
+- **Large language models** and multimodal learning
 
 # 🔥 News
 
+- *2026.10*: &nbsp;🎉🎉 Honored to receive the **National Scholarship for Doctoral Students**.
 - *2026.08*: &nbsp;🎉🎉 Our work "RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM" has been accepted by IEEE GLOBECOM 2026.
 - *2026.03*: &nbsp;🎉🎉 Our work "3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement" has been accepted by IEEE Transactions on Mobile Computing (CCF-A).
 - *2025.12*: &nbsp;🎉🎉 Our work "Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar" has been accepted by IEEE Transactions on Instrumentation and Measurement.
@@ -36,7 +38,7 @@ My research interest includes:
 
 - **Y. Zhang**, J. Wang, Z. Lv, X. Li*, Y. Sun. RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM[C]. Accepted by IEEE Global Communications Conference (GLOBECOM), 2026.
 
-- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. Accepted by IEEE Transactions on Mobile Computing, Early Access. [[PDF]](https://ieeexplore.ieee.org/document/11458861) [[Poster]](pdf/3DVidar_TMC_poster.pdf)
+- **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. IEEE Transactions on Mobile Computing, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11458861) [[Poster]](pdf/3DVidar_TMC_poster.pdf)
 
 - X. Li, J. Wang, **Y. Zhang**, H. Ding, J. Wang and X. Chen. Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mmWave Radar[J]. IEEE Transactions on Instrumentation and Measurement, 2026, 75: 8001614. [[PDF]](https://ieeexplore.ieee.org/document/11369286)
 
@@ -49,31 +51,24 @@ My research interest includes:
 </div>
 
 
-- C. Jin, **Y. Zhang**, X. Li, Y. Sun, J. Wang, Y. Fang. SpDiff: A Speech Sensing System with Diffusion Model Based on mm Wave Radar[C]. IEEE Wireless Communications and Networking Conference (WCNC), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10978346)
+- C. Jin, **Y. Zhang**, X. Li, Y. Sun, J. Wang, Y. Fang. SpDiff: A Speech Sensing System with Diffusion Model Based on mmWave Radar[C]. IEEE Wireless Communications and Networking Conference (WCNC), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10978346)
 - X. Li*, **Y. Zhang**, H. Ding, Y. Fang. Intelligent Spectrum Sensing and Access with Partial Observation Based on Hierarchical Multi-Agent Deep Reinforcement Learning[J]. IEEE Transactions on Wireless Communications, 2024, 23(4): 3131-3145. (Top, JCR Q1)[[PDF]](https://ieeexplore.ieee.org/document/10226499)
 - **Y. Zhang**, X. Li*, H. Ding, Y. Fang. A joint scheme on spectrum sensing and access with partial observation: A multi-agent deep reinforcement learning approach[C]. IEEE/CIC International Conference on Communications in China (ICCC), 2023. [[PDF]](https://ieeexplore.ieee.org/document/10233366)
 
 
 # 🎖 Honors and Awards
 
-- *2025*, 第二十届中国研究生电子设计竞赛 小米企业专项全国三等奖
-- *2024*, 第十九届中国研究生电子设计竞赛 TI 企业专项全国三等奖
-- *2024*, 泛在智能感知技术创新应用大赛 全国三等奖
-- *2023*, 大连理工大学 优秀研究生
-- *2023*, 第十八届中国研究生电子设计竞赛 东北赛区一等奖
-  
----
-(English version)
-- *2025*, National Third Prize (Xiaomi Enterprise Special Track), The 20th China Postgraduate Electronic Design Competition
-- *2024*, National Third Prize (TI Enterprise Special Track), The 19th China Postgraduate Electronic Design Competition
-- *2024*, National Third Prize, Ubiquitous Intelligent Sensing Technology Innovation and Application Competition
-- *2023*, Outstanding Postgraduate of Dalian University of Technology
-- *2023*, First Prize (Northeast China Division), The 18th China Postgraduate Electronic Design Competition
+- **2026** — National Scholarship for Doctoral Students, China
+- **2025** — National Third Prize, Xiaomi Enterprise Track, China Postgraduate Electronic Design Competition
+- **2024** — National Third Prize, TI Enterprise Track, China Postgraduate Electronic Design Competition
+- **2024** — National Third Prize, Ubiquitous Intelligent Sensing Technology Innovation and Application Competition
+- **2023** — Outstanding Graduate Student, Dalian University of Technology
+- **2023** — First Prize, Northeast China Division, China Postgraduate Electronic Design Competition
 
 
-# 📖 Educations
+# 📖 Education
 
-- *2023.09 - Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China. (Direct Ph.D. program after Master’s transfer). Supervisor: Prof. Yi Sun & Xuanheng Li.
+- *2023.09 – Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisors: Prof. Yi Sun and Associate Prof. Xuanheng Li.
 - *2021.09 - 2023.06*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisor: Prof. Xuanheng Li.
 - *2017.09 - 2021.06*, B.S. Degree, School of Information and Communication Engineering, Dalian University of Technology, China.
 
@@ -82,15 +77,25 @@ My research interest includes:
 
 # 💻 Services
 
-- Reviewer of IEEE WCL, IEEE IOTJ, IEEE TCCN, ACM CSUR.
+- Reviewer for IEEE Transactions on Mobile Computing, IEEE Wireless Communications Letters, IEEE Internet of Things Journal, IEEE Transactions on Cognitive Communications and Networking, and ACM Computing Surveys.
 
 <span class='anchor' id='visitor-map'></span>
 
 # 🌍 Visitor Map
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VycwuNNIhXFtVtRnr1dYBH2FqQPxIfrtlzSCwaI0D5I&co=4da0db&ct=ffffff'></script>
-<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MGL_012s5xtcDCmOkbpUnzdpv8_9No63pKxcG89dsWQ&cl=ffffff&w=a"></script> -->
-<!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=g51h6C7qex6BgeBjcBdP7kfV-4NTCya2q2avTv2WfYI"></script> -->
+<div style="text-align:center; margin: 20px 0;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=MGL_012s5xtcDCmOkbpUnzdpv8_9No63pKxcG89dsWQ&cl=ffffff&w=a">
+  </script>
+</div>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv" style="display: block; text-align: center;">Visit count:<span id="busuanzi_value_site_pv"></span>.</span>
+<script async
+src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
+<div style="text-align:center; margin-top:10px;">
+  Visit count:
+  <span id="busuanzi_value_site_pv"></span>
+</div>
