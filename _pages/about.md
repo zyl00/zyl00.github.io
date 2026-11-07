@@ -69,7 +69,7 @@ Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-ye
 # 📖 Educations
 
 - *2023.09 – Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisors: Prof. Yi Sun and Associate Prof. Xuanheng Li.
-- *2021.09 - 2023.06*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisor: Prof. Xuanheng Li.
+- *2021.09 - 2023.09*, Master’s Student, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisor: Prof. Xuanheng Li.
 - *2017.09 - 2021.06*, B.S. Degree, School of Information and Communication Engineering, Dalian University of Technology, China.
 
 
