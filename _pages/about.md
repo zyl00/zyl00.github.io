@@ -17,13 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-year Ph.D. student at the School of Information and Communication Engineering of Dalian University of Technology, under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
+Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-year Ph.D. student at the School of Information and Communication Engineering of Dalian University of Technology (DUT), under the joint supervision of Associate Prof. [Xuanheng Li](https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm) and Prof. [Yi Sun](https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm). 
+
+My research focuses on intelligent wireless sensing, with particular interests in millimeter-wave (mmWave) radar sensing, deep learning and multimodal artificial intelligence. I expect to graduate in 2027 and am currently seeking full-time research and engineering opportunities in artificial intelligence, multimodal learning, and wireless sensing.
 
 ### Research Interests
 
-- mmWave radar-based **wireless sensing**
-- **Wireless AI**, including reinforcement learning for wireless networks
-- **Large language models** and multimodal learning
+- **Wireless Sensing**: mmWave radar sensing, contactless physiological monitoring, and signal processing.
+
+- **Wireless AI**: Machine learning and reinforcement learning for wireless communication and sensing systems.
+
+- **Multimodal AI**: Large language models (LLMs), cross-modal representation learning, and sensor-language understanding.
+
+📄 Here is my CV [[PDF]](pdf/resume_YLZh_2027.pdf).
 
 # 🔥 News
 
