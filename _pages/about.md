@@ -42,7 +42,7 @@ My research focuses on intelligent wireless sensing, with particular interests i
 
 # 📝 Publications 
 
-- **Y. Zhang**, J. Wang, Z. Lv, X. Li*, Y. Sun. RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM[C]. Accepted by IEEE Global Communications Conference (GLOBECOM), 2026.
+- **Y. Zhang**, J. Wang, Z. Lv, X. Li*, Y. Sun. RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM[C]. Accepted by IEEE Global Communications Conference (GLOBECOM), 2026. [[PDF]](pdf/RadarGPT_GC2026.pdf)
 
 - **Y. Zhang**, X. Li*, Y. Sun. 3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement[J]. IEEE Transactions on Mobile Computing, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11458861) [[Poster]](pdf/3DVidar_TMC_poster.pdf)
 
