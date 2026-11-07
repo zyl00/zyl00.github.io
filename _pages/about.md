@@ -65,7 +65,7 @@ Hi there, I'm Yulong Zhang (Chinese name: 张玉龙). I am currently a fourth-ye
 - **2023** — Outstanding Graduate Student, Dalian University of Technology
 - **2023** — First Prize, Northeast China Division, China Postgraduate Electronic Design Competition
 
-<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 
 - *2023.09 – Present*, Ph.D. Candidate, School of Information and Communication Engineering, Dalian University of Technology, China. Supervisors: Prof. Yi Sun and Associate Prof. Xuanheng Li.
