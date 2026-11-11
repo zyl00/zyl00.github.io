@@ -34,7 +34,7 @@ I expect to graduate in 2027 and am currently seeking full-time research and eng
 
 # 🔥 News
 
-- *2026.10*: &nbsp;🎉🎉 Honored to receive the **National Scholarship for Doctoral Students**.
+- *2026.10*: &nbsp;🎉🎉 Honored to receive the **National Scholarship for Doctoral Students**.[[news]](https://ice.dlut.edu.cn/info/1021/8367.htm)
 - *2026.08*: &nbsp;🎉🎉 Our work "RadarGPT: Contact-free Cardiac Diagnosis Based on mmWave Radar and LLM" has been accepted by IEEE GLOBECOM 2026.
 - *2026.03*: &nbsp;🎉🎉 Our work "3DVidar: A Single mmWave Radar based 3D Vibration Sensing Method via Multi-Point Multi-Path Multi-Antenna Enhancement" has been accepted by IEEE Transactions on Mobile Computing (CCF-A).
 - *2025.12*: &nbsp;🎉🎉 Our work "Contact-less Rotation Speed Measurement of Small-scale Rotors Based on mm-Wave Radar" has been accepted by IEEE Transactions on Instrumentation and Measurement.
