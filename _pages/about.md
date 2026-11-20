@@ -14,7 +14,7 @@ redirect_from:
   <h1>Yulong Zhang <span class="hero-cn">张玉龙</span></h1>
   <p class="hero-role">Ph.D. Candidate · School of Information and Communication Engineering, Dalian University of Technology</p>
 
-  <p>Hi there, I'm Yulong Zhang. I am currently a fourth-year Ph.D. student at the School of Information and Communication Engineering of Dalian University of Technology (DUT), under the joint supervision of Associate Prof. <a href="https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm">Xuanheng Li</a> and Prof. <a href="https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm">Yi Sun</a>.</p>
+  <p>Hi there, I'm Yulong Zhang. I am currently a fourth-year Ph.D. student at the School of Information and Communication Engineering of Dalian University of Technology (DUT), under the joint supervision of Prof. <a href="https://faculty.dlut.edu.cn/2018011001/zh_CN/index.htm">Xuanheng Li</a> and Prof. <a href="https://faculty.dlut.edu.cn/sunyi/zh_CN/index/774887/list/index.htm">Yi Sun</a>.</p>
 
   <p>My research focuses on <strong>intelligent wireless sensing</strong>, with particular interests in millimeter-wave (mmWave) radar sensing, deep learning and multimodal artificial intelligence. I expect to graduate in 2027 and am currently seeking full-time research and engineering opportunities in artificial intelligence, multimodal learning, and wireless sensing.</p>
 
@@ -209,7 +209,7 @@ redirect_from:
   <div class="info-card">
     <div class="info-row">
       <div class="info-year">2023.09 – Present</div>
-      <div class="info-text"><strong>Ph.D. Candidate</strong>, School of Information and Communication Engineering, Dalian University of Technology, China<span class="info-sub">Supervisors: Prof. Yi Sun and Associate Prof. Xuanheng Li.</span></div>
+      <div class="info-text"><strong>Ph.D. Candidate</strong>, School of Information and Communication Engineering, Dalian University of Technology, China<span class="info-sub">Supervisors: Prof. Yi Sun and Prof. Xuanheng Li.</span></div>
     </div>
     <div class="info-row">
       <div class="info-year">2021.09 – 2023.09</div>
